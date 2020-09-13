@@ -1,3 +1,18 @@
+This project displays the activity times for a user in a given period of time.
+
+Table of contents
+[Libraries](#libraries used)
+Setup
+Libraries used
+- React
+- Bootstrap (for component / modals / progress bar)
+- Axios (to fetch JSON data)
+Setup
+- `npm install`
+- `npm start`
+- if required, json script can be hosted on a local machine using [Json-server](https://www.npmjs.com/package/json-server)
+Change url
+Axios request URL
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
