@@ -42,7 +42,7 @@ export default function First() {
       </div>
       <div className="modal-body">
       <center>
-      <h4> The activity times for Idhttps://github.com/aman3096/Time-ranges.git No.{id} are</h4>
+      <h4> The activity times for Id No.{id} are</h4>
       
       {Object.values(activity_times[0]).map(u=>
           <div className="container">
